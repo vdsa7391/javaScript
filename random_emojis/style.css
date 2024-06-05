@@ -1,0 +1,27 @@
+body{
+    background: rgba(128, 128, 128, 0.703);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.emoji{
+
+    font-size: 15em;
+    filter: grayscale(1);
+    transition: tranform 3s ;
+
+
+
+}
+
+
+.emoji:hover{
+    filter: grayscale(0);
+    transform: scale(1.3);
+    
+
+
+}
