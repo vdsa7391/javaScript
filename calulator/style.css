@@ -1,0 +1,35 @@
+body{
+    background:crimson;
+    color: white;
+    font-size: 400;
+    height: 100vh;
+    display: flex;
+     justify-content: center; align-items: center;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around; align-items: center;
+    flex-direction: column;
+    width: 50%;
+    height: 50%;
+    
+}
+
+.spacing{
+    padding: 1rem;
+}
+
+.operator{
+    padding: 1rem 5rem 1rem 5rem;
+}
+
+.submit{
+    padding: 1rem 2rem;
+    border: 1px solid white;
+    background: transparent;
+    color: white;
+    font-size: 400;
+}
+   
+
