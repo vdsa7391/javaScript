@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(38, 38, 51);
+    height: 100vh;
+    
+}
+
+
+.btn{
+    height: 100px;
+    width: 100px;
+    border: 2px solid white;
+    text-align: center;
+    text-transform: capitalize;
+    
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;
+    height: 100vh;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.red{
+    background-color: red;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
