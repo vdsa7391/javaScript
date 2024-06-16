@@ -10,7 +10,8 @@ These are some small amazing projects i make in order to learn JavaScript like:
   3. Feedback_system:  https://savdrathore.github.io/feed/ <br>
       -> Select any feedback or just press submit in order to see the result. <br>
      
-  6. Inter-changeble Color
-  7. Key_methods
-  8. Calculator
+  4. Inter-changeble Color: https://savdrathore.github.io/color_change/
+      -> If you click on any button it will change the background color to the button text. <br>
+      
+  5. Calculator:
 
